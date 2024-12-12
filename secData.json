@@ -1,0 +1,325 @@
+[
+    {
+        "title": "Tentacles of \u20180ktapus\u2019 Threat Group Victimize 130 Firms",
+        "description": 0,
+        "url": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Ransomware Attacks are on the Rise",
+        "description": 0,
+        "url": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Inside the Hackers\u2019 Toolkit \u2013 Podcast",
+        "description": 0,
+        "url": "https://threatpost.com/inside-hackers-toolkit/180360/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Being Prepared for Adversarial Attacks \u2013 Podcast",
+        "description": 0,
+        "url": "https://threatpost.com/threatpost-manky-fortinet/179821/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "The State of Secrets Sprawl \u2013 Podcast",
+        "description": 0,
+        "url": "https://threatpost.com/gitguardian-state-of-secrets-sprawl/179525/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "A Blockchain Primer and a Bored Ape Headscratcher \u2013 Podcast",
+        "description": 0,
+        "url": "https://threatpost.com/a-blockchain-primer-and-a-bored-ape-headscratcher-podcast/179179/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Security Innovation: Secure Systems Start with Foundational Hardware",
+        "description": 0,
+        "url": "https://threatpost.com/webinars/secure-systems-start-with-hardware/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Securely Access Your Machines from Anywhere \u2013 Presented by Keeper Security",
+        "description": 0,
+        "url": "https://threatpost.com/webinars/securely-access-your-machines-from-anywhere-presented-by-keeper-security/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Log4j Exploit: Lessons Learned and Risk Reduction Best Practices",
+        "description": 0,
+        "url": "https://threatpost.com/webinars/lessons-learned-from-log4j-exploit/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "How to ID and Protect Sensitive Cloud Data: The Secret to Keeping Secrets",
+        "description": 0,
+        "url": "https://threatpost.com/webinars/protect-sensitive-cloud-data/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Cloud Security: The Forecast for 2022",
+        "description": 0,
+        "url": "https://threatpost.com/ebooks/cloud-security-the-forecast-for-2022/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "2021: The Evolution of Ransomware",
+        "description": 0,
+        "url": "https://threatpost.com/ebooks/2021-the-evolution-of-ransomware/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Healthcare Security Woes Balloon in a Covid-Era World",
+        "description": 0,
+        "url": "https://threatpost.com/ebooks/healthcare-security-woes-balloon-in-a-covid-era-world/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "2020 in Security: Four Stories from the New Threat\u00a0Landscape",
+        "description": 0,
+        "url": "https://threatpost.com/ebooks/2020-in-security-four-stories-from-the-new-threat-landscape/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+        "description": 0,
+        "url": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+        "description": 0,
+        "url": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+        "description": 0,
+        "url": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "Fake Reservation Links Prey on Weary Travelers",
+        "description": 0,
+        "url": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    },
+    {
+        "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+        "description": 0,
+        "url": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+        "Predicted_Sector": "Others",
+        "Sector_Scores": {
+            "Banking": 0,
+            "Telecom": 0,
+            "Defense": 0,
+            "Energy": 0,
+            "Transportation": 0,
+            "Healthcare": 0,
+            "IT": 0,
+            "Others": 0
+        },
+        "Top_Sector_Confidence": 0
+    }
+]

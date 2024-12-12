@@ -1,0 +1,204 @@
+[
+    {
+        "title": "FCC Proposes Updates to Wiretap Security Standards Following Chinese Telecom Hacks",
+        "description": "The FCC shared a draft ruling that, if adopted, would immediately require telecommunications firms to secure their networks against unauthorized access to systems that house wiretap requests from law enforcement, according to an agency news release.",
+        "threat type": "Govt., Critical Infrastructure"
+    },
+    {
+        "title": "AsyncHttpClient Vulnerability Puts Java Applications at Risk",
+        "description": "This vulnerability (CVE-2024-53990) poses a significant risk to applications that rely on AsyncHttpClient for handling user authentication and authorization, especially those that interact with third-party services.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "How Widespread Is Mercenary Spyware? More Than You Think",
+        "description": "A targeted hunt by iVerify on 2,500 mobile devices for indicators of compromise associated with mercenary spyware has revealed that its use is not as rare as one would hope.",
+        "threat type": "Trends, Reports, Analysis"
+    },
+    {
+        "title": "Ransomware Costs Manufacturing Sector $17bn in Downtime",
+        "description": "This significant financial impact stems from the widespread disruption of ransomware attacks. Beyond halting production, they jeopardize customer orders, damage relationships and lead to prolonged recovery efforts.",
+        "threat type": "Trends, Reports, Analysis"
+    },
+    {
+        "title": "Multiple Vulnerabilities in SonicWall SMA 100 Could Lead to Remote Code Execution",
+        "description": "\u201cA vulnerability in the SonicWall SMA100 SSLVPN web management interface allows remote attackers to cause Stack-based buffer overflow and potentially lead to code execution,\u201d warns the advisory, highlighting the severity of CVE-2024-45318.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Critical Flaw in Sweet Date WordPress Theme Exposes Thousands of Sites to Potential Takeovers",
+        "description": "A critical vulnerability (CVE-2024-43222) has been identified in the Sweet Date WordPress theme, a popular premium theme with nearly 10,000 downloads. The vulnerability carries a CVSS score of 9.8.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Fake DocuSign Emails: Don\u2019t Get Hooked by Phishing Scams",
+        "description": "DocuSign phishing attacks often masquerade as legitimate emails, complete with official branding and formats that closely mimic genuine DocuSign communications. Typically, the emails claim a document is awaiting the recipient\u2019s signature.",
+        "threat type": "Identity Theft, Fraud, Scams"
+    },
+    {
+        "title": "Critical Zero-Day Vulnerability in Windows Exposes User Credentials",
+        "description": "A newly discovered zero-day vulnerability affecting all supported and legacy versions of Microsoft Windows allows attackers to capture user NTLM credentials through the simple act of file viewing within Windows Explorer.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "U.S. Organization in China Targeted by Attackers",
+        "description": "A large U.S. organization with a significant presence in China was the subject of a targeted attack earlier this year, during which the attackers obtained a persistent presence on its network, seemingly for the purpose of intelligence gathering.",
+        "threat type": "Breaches and Incidents"
+    },
+    {
+        "title": "Django Releases Patches for CVE-2024-53907 and CVE-2024-53908 to Mitigate DoS and SQLi Threats",
+        "description": "Patches to address both CVE-2024-53907 and CVE-2024-53908 have been applied to the main, 5.1, 5.0, and 4.2 branches. Users can obtain the patches from the respective changesets provided in the official Django security advisory.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Apache Superset Patches Multiple Security Flaws in Latest Release",
+        "description": "These vulnerabilities, identified as CVE-2024-53947, CVE-2024-53948, and CVE-2024-53949, range in severity and could potentially allow attackers to bypass security controls, access sensitive data, and gain unauthorized privileges.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Critical Vulnerability in Cleo Software Actively Exploited in the Wild",
+        "description": "The exploitation chain leverages an arbitrary file-write vulnerability. The attackers plant malicious files in Cleo\u2019s autorun directory, which the software automatically processes and deletes post-execution.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "MoqHao Leverages iCloud and VK in Campaign Targeting Apple IDs and Android Device",
+        "description": "MoqHao, also known as Wroba and XLoader, is a mobile malware family linked to Roaming Mantis, a cybercrime group believed to be operating out of China. Malicious payloads are usually delivered through SMS phishing attacks targeting mobile devices.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Researcher Details a Critical TCC Bypass Flaw in macOS and iOS",
+        "description": "Designated as CVE-2024-44131, this flaw enables malicious applications to bypass user consent mechanisms and access sensitive data without the user\u2019s knowledge. The vulnerability has since been patched in macOS 15 and iOS 18.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Microsoft December 2024 Patch Tuesday Fixes One Exploited Zero-Day, 71 Flaws",
+        "description": "Microsoft's December 2024 Patch Tuesday offered security updates for 71 flaws, including one actively exploited zero-day vulnerability. This Patch Tuesday fixed sixteen critical vulnerabilities, all of which are remote code execution flaws.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Siemens Healthineers Addresses Critical Flaw in Medical Imaging Software",
+        "description": "To address this vulnerability, Siemens Healthineers has released a new hotfix (HF05) for syngo.plaza VB30E. The company strongly advises all users to update their systems to the latest version as soon as possible.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Operation Digital Eye: Chinese APT Compromises Critical Digital Infrastructure via Visual Studio Code Tunnels",
+        "description": "The threat actors used a lateral movement capability indicative of the presence of a shared vendor or digital quartermaster maintaining and provisioning tooling within the Chinese APT ecosystem.",
+        "threat type": "Threat Actors"
+    },
+    {
+        "title": "Schneider Electric Warns of Critical Flaw in Modicon Controllers",
+        "description": "The vulnerability, tracked as CVE-2024-11737 and assigned a CVSS score of 9.8, could allow an attacker to cause a denial of service and compromise the integrity of an affected controller.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Google Chrome Gets Patches for Two High-Severity Vulnerabilities",
+        "description": "The update, rolling out progressively to Windows, Mac, and Linux users over the coming days/weeks, brings Chrome to version 131.0.6778.139/.140 for Windows and Mac, and 131.0.6778.139 for Linux.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "SAP Issues Critical Patch for NetWeaver AS for JAVA",
+        "description": "One of the most urgent issues, CVE-2024-47578, affects SAP NetWeaver AS for JAVA (Adobe Document Services). This vulnerability, combined with two related CVEs\u2014CVE-2024-47579 and CVE-2024-47580\u2014allows for severe exploitation risks.",
+        "threat type": "Malware and Vulnerabilities"
+    },
+    
+    {
+        "title": "QuickBooks popup scam still being delivered via Google ads",
+        "description": "We’ve seen two main lures, both via Google ads: the first one is simply a website promoting online support for QuickBooks and shows a phone number, while the latter requires victims to download and install a program that will generate a popup.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "Popular Malware Loader FakeBat Returns After Months-Long Hiatus",
+        "description": "Malwarebytes reported the resurgence of the FakeBat (aka Eugenloader, PaykLoader) malware loader after a months-long hiatus. FakeBat was detected via a malicious Google ad impersonating the productivity app Notion.",
+        "threat type": "Malware and Vulnerabilities"
+      },
+      {
+        "title": "Large eBay Malvertising Campaign Leads to Scams",
+        "description": "Tech support scammers are targeting eBay customers in the U. S. through fraudulent Google ads. Upon investigating, multiple Sponsored results from at least four different advertiser accounts were identified.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "Crooks Bank on Microsoft’s Search Engine to Phish Customers",
+        "description": "Cybercriminals are using Microsoft's Bing search engine to trick people into giving away their bank account information. They create fake websites that look like real bank login pages and then get those websites to appear high in the search results.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "AI scammers target Gmail accounts, say they have your death certificate",
+        "description": "The scammers use a legitimate Salesforce CRM tool to fake emails from the Google Account Security Team. Some victims were asked to verify their 2FA, indicating the scammers aim to take over Google accounts.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "Large scale Google Ads campaign targets utility software",
+        "description": "Malwarebytes spotted a recent resurgence in malvertising, where threat actors are using deceptive ads to distribute malware disguised as legitimate software downloads. The campaign targets popular utility software such as Slack, Notion, and Calendly.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "Android Users Targeted on Facebook and Adult Sites, Served Adware",
+        "description": "Android users are at risk of adware infections from MobiDash, which can be added to legitimate apps without changing their functionality. This adware, known for delayed activation, spreads through various channels including Facebook and adult sites.",
+        "threat type": "Malware and Vulnerabilities"
+      },
+      {
+        "title": "Fake Disney+ Activation Page Redirects to Pornographic Scam",
+        "description": "A fake Disney+ activation page redirects to a pornographic scam, tricking victims by creating a fake Microsoft scanner claiming child abuse imagery on their computer. Scammers use SEO to place fraudulent sites in Google search results.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "Tech Support Scam Found Hijacking Microsoft Search Queries Through Google Ads",
+        "description": "Two deceptive campaigns were identified recently using Google ads and Microsoft's infrastructure. The first scam involves a fake helpdesk page on Microsoft Learn whereas the second one hijacks Microsoft search queries through a Google ad.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "Fake Funeral Live Stream Scams Target Grieving Users on Facebook",
+        "description": "This type of scam typically starts with a comment on a funeral home's Facebook notification, promoting a fake live stream of the funeral service or soliciting donations on behalf of the deceased family.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "LibreNMS Vulnerability (CVE-2024-51092): Mitigating the Risk of Server Compromise",
+        "description": "A recent security advisory from the LibreNMS project has revealed a severe vulnerability (CVE-2024-51092) affecting versions up to 24.9.1 of the widely-used network monitoring platform. The flaw is rated a critical 9.1 on the CVSS scale.",
+        "threat type": "Malware and Vulnerabilities"
+      },
+      {
+        "title": "QuickBooks popup scam still being delivered via Google ads",
+        "description": "We’ve seen two main lures, both via Google ads: the first one is simply a website promoting online support for QuickBooks and shows a phone number, while the latter requires victims to download and install a program that will generate a popup.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "New Stealthy BabbleLoader Malware Spotted Delivering WhiteSnake and Meduza Stealers",
+        "description": "BabbleLoader is an \"extremely evasive loader, packed with defensive mechanisms, that is designed to bypass antivirus and sandbox environments to deliver stealers into memory.",
+        "threat type": "Malware and Vulnerabilities"
+      },
+      {
+        "title": "The Evasive Nature of an Emerging Two-step Phishing Threat",
+        "description": "In a campaign targeting hundreds of organizations worldwide, cyber criminals are exploiting Microsoft Visio files (.vsdx) and SharePoint to execute two-step phishing attacks.",
+        "threat type": "Threat Intel & Info Sharing"
+      },
+      {
+        "title": "Inside Bitdefender Labs’ Investigation of a Malicious Facebook Ad Campaign Targeting Bitwarden Users",
+        "description": "The campaign tricks users into installing a harmful browser extension under the guise of a security update. Key findings include: Platform Exploitation. Attackers are leveraging Facebook’s advertising platform to deliver ads that look legitimate.",
+        "threat type": "Identity Theft, Fraud, Scams"
+      },
+      {
+        "title": "BrazenBamboo Weaponizes FortiClient Vulnerability to Steal VPN Credentials via DEEPDATA",
+        "description": "Volexity discovered and reported a vulnerability in Fortinet's Windows VPN client, FortiClient, where user credentials remain in process memory after a user authenticates to the VPN. This vulnerability was abused by BrazenBamboo.",
+        "threat type": "Malware and Vulnerabilities"
+      },
+      {
+        "title": "Surge in DocuSign Phishing Attacks Target US State Contractors",
+        "description": "A rise in sophisticated phishing attacks leveraging DocuSign impersonations to target businesses interacting with state and municipal agencies has been uncovered by threat researchers.",
+        "threat type": "Threat Intel & Info Sharing"
+      },
+      {
+        "title": "SafePay Ransomware: A New Threat with Sophisticated Techniques",
+        "description": "In October 2024, Huntress analysts uncovered a previously unreported ransomware strain, dubbed SafePay, deployed across two distinct incidents. SafePay’s methods and tactics hint at a seasoned operator leveraging advanced ransomware techniques.",
+        "threat type": "Malware and Vulnerabilities"
+      },
+      {
+        "title": "Critical Vulnerabilities in Citrix Virtual Apps and Desktops Actively Exploited",
+        "description": "Two vulnerabilities in Citrix’s “Virtual Apps and Desktops” remote access solution, CVE-2024-8068 and CVE-2024-8069, are actively being exploited in the wild, according to a report from Johannes B. Ullrich, Ph.D., Dean of Research at SANS.edu.",
+        "threat type": "Malware and Vulnerabilities"
+      },
+      {
+        "title": "Inside Water Barghest’s Rapid Exploit-to-Market Strategy for IoT Devices",
+        "description": "Water Barghest, which comprised over 20,000 IoT devices by October 2024, monetizes IoT devices by exploiting vulnerabilities and quickly enlisting them for sale on a residential proxy marketplace.",
+        "threat type": "Malware and Vulnerabilities"
+      }
+
+    ]
